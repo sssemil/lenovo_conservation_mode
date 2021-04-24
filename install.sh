@@ -18,4 +18,4 @@
 # along with "Lenovo Conservation Mode Helper".  If not, see
 # <https://www.gnu.org/licenses/>.
 
-ln -s `pwd`/conservation_mode.sh /usr/local/bin/conservation_mode.sh
+rm /usr/local/sbin/conservation_mode.sh
